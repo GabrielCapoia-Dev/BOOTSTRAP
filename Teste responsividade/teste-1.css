@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    margin-top: 150px;
+    background-color: aquamarine;
+}
+
+.col{
+    background-color: rgb(161, 72, 72);
+    text-align: center;
+    border: 1px solid black;
+    height: 100px;
+}
+

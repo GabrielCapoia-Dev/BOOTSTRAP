@@ -19,7 +19,6 @@ header {
     
 }
 
-
 .logo-img {
     width: 10%;
 }
@@ -59,7 +58,9 @@ header {
     white-space: nowrap;
 }
 .nav-item{
-    margin-left: 150px;
+    margin-left: 115px;
+    text-transform: uppercase;
+    font-weight: 500;
 }
 .grid-duasfotos {
     display: inline-grid;
